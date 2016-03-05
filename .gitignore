@@ -1,0 +1,3 @@
+HelloWorld/target
+HelloWorld/project/*
+!HelloWorld/project/build.sbt
