@@ -1,0 +1,1 @@
+mainClass := Some("ProblemOne")
